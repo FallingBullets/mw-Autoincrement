@@ -28,6 +28,11 @@ $magicWords['ce'] = array(
 	'autoincrement' => array( 0, 'ШАЙОККХОЙО', 'АВТОИНКРЕМЕНТ', 'AUTOINCREMENT' ),
 );
 
+/** German (Deutsch) */
+$magicWords['de'] = array(
+	'autoincrement' => array( 0, 'AUTOZÄHLUNG' ),
+);
+
 /** Spanish (Español) */
 $magicWords['es'] = array(
 	'autoincrement' => array( 0, 'AUTOINCREMENTO', 'AUTOINCREMENTAR' ),
