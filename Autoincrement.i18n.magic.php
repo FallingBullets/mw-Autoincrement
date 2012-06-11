@@ -33,7 +33,7 @@ $magicWords['de'] = array(
 	'autoincrement' => array( 0, 'AUTOZÄHLUNG' ),
 );
 
-/** Spanish (Español) */
+/** Spanish (español) */
 $magicWords['es'] = array(
 	'autoincrement' => array( 0, 'AUTOINCREMENTO', 'AUTOINCREMENTAR' ),
 );
@@ -48,7 +48,7 @@ $magicWords['ko'] = array(
 	'autoincrement' => array( 0, '번호' ),
 );
 
-/** Macedonian (Македонски) */
+/** Macedonian (македонски) */
 $magicWords['mk'] = array(
 	'autoincrement' => array( 0, 'АВТОРАСТ' ),
 );
@@ -73,22 +73,27 @@ $magicWords['nl'] = array(
 	'autoincrement' => array( 0, 'AUTOMATISCHOPHOGEN' ),
 );
 
-/** Russian (Русский) */
+/** Russian (русский) */
 $magicWords['ru'] = array(
 	'autoincrement' => array( 0, 'АВТОИНКРЕМЕНТ' ),
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬) */
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬) */
 $magicWords['sr-ec'] = array(
 	'autoincrement' => array( 0, 'САМОУВЕЋАЊЕ' ),
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $magicWords['sr-el'] = array(
 	'autoincrement' => array( 0, 'SAMOUVEĆAVANJE' ),
 );
 
-/** Swedish (Svenska) */
+/** Swedish (svenska) */
 $magicWords['sv'] = array(
 	'autoincrement' => array( 0, 'ÖKAAUTOMATISKT', 'AUTOINCREMENT' ),
+);
+
+/** Ukrainian (українська) */
+$magicWords['uk'] = array(
+	'autoincrement' => array( 0, 'АВТОІНКРЕМЕНТ' ),
 );
