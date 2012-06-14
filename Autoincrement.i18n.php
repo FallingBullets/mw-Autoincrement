@@ -27,7 +27,7 @@ $messages['ar'] = array(
 	'autoincrement-desc' => 'خطاف متغير يضيف المتغير الزائد تلقائيا <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -55,21 +55,21 @@ $messages['be-tarask'] = array(
 	'autoincrement-desc' => 'Працэдура-перахопнік, якая дадае зьменную, якая аўтаматычна інкрэмэнтуецца <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
 	'autoincrement-desc' => 'Argemmenn gevreañ a ouzhpenn an argemmenn <nowiki>{{AUTOINCREMENT}}</nowiki> ent emgefre',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
 	'autoincrement-desc' => 'Kuka promjenjive koja dodaje promjenjivu sa automatskim povećanjem <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Ssola
  */
 $messages['ca'] = array(
@@ -83,7 +83,7 @@ $messages['cy'] = array(
 	'autoincrement-desc' => "Bach newidiol sy'n ychwanegu'r newidyn awto-gynyddu <nowiki>{{AUTOINCREMENT}}</nowiki>",
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Aputtu
  */
 $messages['da'] = array(
@@ -118,14 +118,14 @@ $messages['eo'] = array(
 	'autoincrement-desc' => 'Variabla hokilo kiu aldonas la aŭtomate enkremantan variablon <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Antur
  */
 $messages['es'] = array(
 	'autoincrement-desc' => 'Una variable de conexión que agrega la variable <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Theklan
  */
 $messages['eu'] = array(
@@ -140,7 +140,7 @@ $messages['fa'] = array(
 	'autoincrement-desc' => 'یک قلاب متغیر است که متغیر افزاینده <nowiki>{{AUTOINCREMENT}}</nowiki> را اضافه می‌کند',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Crt
  * @author ZeiP
  */
@@ -148,14 +148,14 @@ $messages['fi'] = array(
 	'autoincrement-desc' => 'Laajennus, joka lisää automaattisesti kasvavan muuttujan <nowiki>{{AUTOINCREMENT}}</nowiki>.',
 );
 
-/** French (Français)
+/** French (français)
  * @author IAlex
  */
 $messages['fr'] = array(
 	'autoincrement-desc' => "Une variable <nowiki>{{AUTOINCREMENT}}</nowiki> s'incrémentant à chaque appel",
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -191,7 +191,7 @@ $messages['hil'] = array(
 	'autoincrement-desc' => 'Isa ka variable nga hook nga nagadugang sang autoincrementing variable <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Excaliboor
  */
 $messages['hr'] = array(
@@ -205,14 +205,14 @@ $messages['hsb'] = array(
 	'autoincrement-desc' => 'Wariablowa hóčka, kotraž awtomatisce ličacu wariablu <nowiki>{{AUTOINCREMENT}}</nowiki> přidawa',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
 	'autoincrement-desc' => 'Egy hook változó ami létrehozza az automatikusan növekvő <nowiki>{{AUTOINCREMENT}}</nowiki> változót',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -233,7 +233,7 @@ $messages['ig'] = array(
 	'autoincrement-desc' => 'Mmérí mmérí ndór nke né tí mmérí mmérí autoincrementing <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Darth Kule
  */
 $messages['it'] = array(
@@ -282,7 +282,7 @@ $messages['li'] = array(
 	'autoincrement-desc' => "Doog 'n variabele <nowiki>{{AUTOINCREMENT}}</nowiki> bie die automatis opgehuug waert",
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Garas
  */
 $messages['lt'] = array(
@@ -296,7 +296,7 @@ $messages['mg'] = array(
 	'autoincrement-desc' => 'Ova <nowiki>{{AUTOINCREMENT}}</nowiki> miampy isaky ny fiantsoana',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -331,14 +331,14 @@ $messages['nl'] = array(
 	'autoincrement-desc' => 'Voegt een variabele <nowiki>{{AUTOINCREMENT}}</nowiki> toe die automatisch wordt opgehoogd',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
 	'autoincrement-desc' => "Una variabla <nowiki>{{AUTOINCREMENT}}</nowiki> que s'incrementa a cada apèl",
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -352,49 +352,49 @@ $messages['pms'] = array(
 	'autoincrement-desc' => 'Na variabila che a gionta la variabila auto-ancrementanta <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Waldir
  */
 $messages['pt'] = array(
 	'autoincrement-desc' => 'Um "hook" que adiciona a variável auto-incrementada <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
 	'autoincrement-desc' => 'Um "hook" que adiciona a variável auto-incrementada <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'autoincrement-desc' => "'Na variabbile hook ca aggiunge 'a variabbile de autoingremende <nowiki>{{AUTOINCREMENT}}</nowiki>",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
 	'autoincrement-desc' => 'Переменный перехватчик (variable hook), добавляющий автоинкрементную переменную <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
 	'autoincrement-desc' => 'Premenlivý prípojný bod, ktorý pridáva automaticky sa zvyšujúcu premennú <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
 	'autoincrement-desc' => 'Spremenljiva priponka, ki doda samodejno naraščajočo spremenljivko <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -402,7 +402,7 @@ $messages['sr-ec'] = array(
 	'autoincrement-desc' => 'Закачка која додаје самоувећавајућу променљиву <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Liangent
  * @author Rancher
  */
@@ -410,7 +410,7 @@ $messages['sr-el'] = array(
 	'autoincrement-desc' => 'Zakačka koja dodaje samouvećavajuću promenljivu <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Boivie
  */
 $messages['sv'] = array(
@@ -452,7 +452,7 @@ $messages['tr'] = array(
 	'autoincrement-desc' => '<nowiki>{{AUTOINCREMENT}}</nowiki> otomatik artış değişkenini ekleyen bir değişken çengel',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Prima klasy4na
  */
 $messages['uk'] = array(
@@ -466,12 +466,12 @@ $messages['vi'] = array(
 	'autoincrement-desc' => 'Một hook biến sẽ thêm một biến tự động tăng tiến <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文（简体）‬) */
 $messages['zh-hans'] = array(
 	'autoincrement-desc' => '堵加<nowiki>{{AUTOINCREMENT}}</nowiki>变量。',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Horacewai2
  * @author Waihorace
  */
