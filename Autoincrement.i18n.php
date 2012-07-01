@@ -48,7 +48,7 @@ $messages['bar'] = array(
 	'autoincrement-desc' => "A Variaabel-Hook, der d' autómaatisch aufferzöhende Variabel <nowiki>{{AUTOINCREMENT}}</nowiki> dazuafygd",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -97,7 +97,7 @@ $messages['de'] = array(
 	'autoincrement-desc' => 'Ein Variablen-Hook, der die automatisch heraufzählende Variable <nowiki>{{AUTOINCREMENT}}</nowiki> hinzufügt',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -162,7 +162,7 @@ $messages['frp'] = array(
 	'autoincrement-desc' => 'Una variâbla <nowiki>{{AUTOINCREMENT}}</nowiki> que s’encrèmente a châque apèl.',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -198,7 +198,7 @@ $messages['hr'] = array(
 	'autoincrement-desc' => 'Zastavica koja dodaje autoinkrementirajuću varijablu <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
