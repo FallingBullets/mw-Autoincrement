@@ -34,7 +34,7 @@ $messages['ast'] = array(
 	'autoincrement-desc' => "Enllaz a variable qu'amiesta la variable d'incrementu automáticu <nowiki>{{AUTOINCREMENT}}</nowiki>",
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Comp1089
  */
 $messages['ba'] = array(
@@ -310,7 +310,7 @@ $messages['ms'] = array(
 	'autoincrement-desc' => 'Cangkuk pembolehubah yang menambahkan pembolehubah autotokok <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Laaknor
  */
 $messages['nb'] = array(

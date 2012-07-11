@@ -23,7 +23,7 @@ $magicWords['arz'] = array(
 	'autoincrement' => array( 0, 'زيادة_تلقائية', 'AUTOINCREMENT' ),
 );
 
-/** Chechen (Нохчийн) */
+/** Chechen (нохчийн) */
 $magicWords['ce'] = array(
 	'autoincrement' => array( 0, 'ШАЙОККХОЙО', 'АВТОИНКРЕМЕНТ', 'AUTOINCREMENT' ),
 );
