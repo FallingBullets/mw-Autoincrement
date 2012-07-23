@@ -91,10 +91,11 @@ $messages['da'] = array(
 );
 
 /** German (Deutsch)
+ * @author Kghbln
  * @author LWChris
  */
 $messages['de'] = array(
-	'autoincrement-desc' => 'Ein Variablen-Hook, der die automatisch heraufzählende Variable <nowiki>{{AUTOINCREMENT}}</nowiki> hinzufügt',
+	'autoincrement-desc' => 'Ergänzt die automatisch heraufzählende Variable <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
 /** Lower Sorbian (dolnoserbski)
