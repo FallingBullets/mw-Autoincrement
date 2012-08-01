@@ -33,6 +33,11 @@ $magicWords['de'] = array(
 	'autoincrement' => array( 0, 'AUTOZÄHLUNG' ),
 );
 
+/** Zazaki (Zazaki) */
+$magicWords['diq'] = array(
+	'autoincrement' => array( 0, 'OTOMATİKZEYDNAYIŞ' ),
+);
+
 /** Spanish (español) */
 $magicWords['es'] = array(
 	'autoincrement' => array( 0, 'AUTOINCREMENTO', 'AUTOINCREMENTAR' ),
