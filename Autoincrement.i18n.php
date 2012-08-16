@@ -311,6 +311,13 @@ $messages['ms'] = array(
 	'autoincrement-desc' => 'Cangkuk pembolehubah yang menambahkan pembolehubah autotokok <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'autoincrement-desc' => "Varjabbli ta' ''hook'' li jżid il-varjabbli li jinkrementa awtomatikament <nowiki>{{AUTOINCREMENT}}</nowiki>",
+);
+
 /** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Laaknor
  */
