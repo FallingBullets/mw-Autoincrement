@@ -98,6 +98,11 @@ $magicWords['sv'] = array(
 	'autoincrement' => array( 0, 'ÖKAAUTOMATISKT', 'AUTOINCREMENT' ),
 );
 
+/** Turkish (Türkçe) */
+$magicWords['tr'] = array(
+	'autoincrement' => array( 0, 'OTOARTIR' ),
+);
+
 /** Ukrainian (українська) */
 $magicWords['uk'] = array(
 	'autoincrement' => array( 0, 'АВТОІНКРЕМЕНТ' ),
