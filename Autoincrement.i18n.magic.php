@@ -83,12 +83,12 @@ $magicWords['ru'] = array(
 	'autoincrement' => array( 0, 'АВТОИНКРЕМЕНТ' ),
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬) */
+/** Serbian (Cyrillic script) (српски (ћирилица)‎) */
 $magicWords['sr-ec'] = array(
 	'autoincrement' => array( 0, 'САМОУВЕЋАЊЕ' ),
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $magicWords['sr-el'] = array(
 	'autoincrement' => array( 0, 'SAMOUVEĆAVANJE' ),
 );
