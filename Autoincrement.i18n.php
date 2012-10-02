@@ -48,7 +48,7 @@ $messages['bar'] = array(
 	'autoincrement-desc' => "A Variaabel-Hook, der d' autómaatisch aufferzöhende Variabel <nowiki>{{AUTOINCREMENT}}</nowiki> dazuafygd",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -318,7 +318,7 @@ $messages['mt'] = array(
 	'autoincrement-desc' => "Varjabbli ta' ''hook'' li jżid il-varjabbli li jinkrementa awtomatikament <nowiki>{{AUTOINCREMENT}}</nowiki>",
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Laaknor
  */
 $messages['nb'] = array(
@@ -402,7 +402,7 @@ $messages['sl'] = array(
 	'autoincrement-desc' => 'Spremenljiva priponka, ki doda samodejno naraščajočo spremenljivko <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -410,7 +410,7 @@ $messages['sr-ec'] = array(
 	'autoincrement-desc' => 'Закачка која додаје самоувећавајућу променљиву <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Liangent
  * @author Rancher
  */
@@ -474,12 +474,12 @@ $messages['vi'] = array(
 	'autoincrement-desc' => 'Một hook biến sẽ thêm một biến tự động tăng tiến <nowiki>{{AUTOINCREMENT}}</nowiki>',
 );
 
-/** Simplified Chinese (‪中文（简体）‬) */
+/** Simplified Chinese (中文（简体）‎) */
 $messages['zh-hans'] = array(
 	'autoincrement-desc' => '堵加<nowiki>{{AUTOINCREMENT}}</nowiki>变量。',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Horacewai2
  * @author Waihorace
  */
